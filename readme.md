@@ -9,3 +9,7 @@
 - $ ``composer install``
 - $ ``ln -s $(pwd)/.env.example .env``
 - $ ``php artisan serve``
+
+## tuts
+
+- https://medium.com/employbl/add-login-with-google-to-your-laravel-app-d2205f01b895
