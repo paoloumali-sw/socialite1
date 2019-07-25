@@ -7,8 +7,14 @@
 
 - clone [paoloumali-sw/socialite1](https://github.com/paoloumali-sw/socialite1)
 - $ ``composer install``
-- $ ``ln -s $(pwd)/.env.example .env``
+- $ ``ln -s $(pwd)/.env.example .env`` or ``cp .env.example .env``
+- $ ``touch database/database.sqlite``
+- $ ``php artisan migrate``
 - $ ``php artisan serve``
+
+## db seeding
+
+- $ ``php artisan migrate:refresh --seed``
 
 ## tuts
 
