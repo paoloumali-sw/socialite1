@@ -18,4 +18,14 @@
 
 ## tuts
 
-- https://medium.com/employbl/add-login-with-google-to-your-laravel-app-d2205f01b895
+- ubuntu setup: https://gist.github.com/paoloumali-sw/8d1c9193ed669834aa208b2bf9289d88
+- google oauth2: https://medium.com/employbl/add-login-with-google-to-your-laravel-app-d2205f01b895
+
+## vscode settings
+
+```json
+{
+    "git.autofetch": true,
+    "sqltools.useNodeRuntime": true
+}
+```
