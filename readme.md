@@ -5,5 +5,7 @@
 
 ## local dev
 
+- clone [paoloumali-sw/socialite1](https://github.com/paoloumali-sw/socialite1)
+- $ ``composer install``
 - $ ``ln -s $(pwd)/.env.example .env``
 - $ ``php artisan serve``
